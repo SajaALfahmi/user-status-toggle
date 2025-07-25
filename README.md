@@ -20,7 +20,7 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and MySQL.
 - `style.css`: Stylesheet for UI design.
 - `user-project.sql`: SQL file to create the database and table.
 - `demo.mp4`: Screen recording showing how the project works.
-- `phpmyadmin-proof.png`: Screenshot from phpMyAdmin showing inserted data.
+- `phpmyadmin-proof.jpg`: Screenshot from phpMyAdmin showing inserted data.
 
 ## 🧪 How to Use
 
@@ -34,7 +34,7 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and MySQL.
 ## ✅ Project Demo
 
 📷 Database Screenshot:
-![Database proof](./phpmyadmin-proof.png)
+![Database proof](./phpmyadmin-proof.jpg)
 
 🎥 Demo Video:
 Included in this repo as `demo.mp4`.
