@@ -12,7 +12,7 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and XAMPP.
 
 ## 📁 Project Files
 
-- `index.php`: Main page with the form and user table.
+- `index.html`: Main page with the form and user table.
 - `user_insert.php`: Handles form submission and inserts data into the database.
 - `toggle_status.php`: Toggles the status of a specific user.
 - `view.php`: Loads all users and displays them in a table.
