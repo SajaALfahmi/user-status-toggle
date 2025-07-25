@@ -37,6 +37,6 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and MySQL.
 ![Database proof](./phpmyadmin-proof.jpg)
 
 🎥 Demo Video:
-Included in this repo as `demo.mp4`.
+Included in this repo as `demo.mov`.
 
 
