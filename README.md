@@ -1,6 +1,6 @@
 # User Status Toggle Project
 
-This is a simple web project built with HTML, CSS, JavaScript, PHP, and MySQL.
+This is a simple web project built with HTML, CSS, JavaScript, PHP, and XAMPP.
 
 ## 💡 Project Idea
 
@@ -8,7 +8,7 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and MySQL.
 - Submitted data is saved into a MySQL database (`users` table).
 - All user records are displayed in a table below the form.
 - Each row has a "Toggle" button to change the `status` (0 or 1).
-- Status updates are reflected immediately without refreshing the page (using fetch/AJAX).
+- Status updates are reflected immediately without refreshing the page 
 
 ## 📁 Project Files
 
