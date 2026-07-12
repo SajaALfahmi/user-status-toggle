@@ -2,7 +2,7 @@
 
 This is a simple web project built with HTML, CSS, JavaScript, PHP, and XAMPP.
 
-## 💡 Project Idea
+## Project Idea
 
 - A form to enter `name` and `age`.
 - Submitted data is saved into a MySQL database (`users` table).
@@ -10,7 +10,7 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and XAMPP.
 - Each row has a "Toggle" button to change the `status` (0 or 1).
 - Status updates are reflected immediately without refreshing the page 
 
-## 📁 Project Files
+## Project Files
 
 - `index.html`: Main page with the form and user table.
 - `user_insert.php`: Handles form submission and inserts data into the database.
@@ -22,7 +22,7 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and XAMPP.
 - `demo.mp4`: Screen recording showing how the project works.
 - `phpmyadmin-proof.jpg`: Screenshot from phpMyAdmin showing inserted data.
 
-## 🧪 How to Use
+## How to Use
 
 1. Start Apache and MySQL from XAMPP.
 2. Create a database called `users_project` and import `user-project.sql` using phpMyAdmin.
@@ -31,9 +31,9 @@ This is a simple web project built with HTML, CSS, JavaScript, PHP, and XAMPP.
 5. Add a new user (name & age), and press Submit.
 6. Use the Toggle button to activate/deactivate users.
 
-## ✅ Project Demo
+## Project Demo
 
-📷 Database Screenshot:
+Database Screenshot:
 ![Database proof](./phpmyadmin-proof.jpg)
 
 🎥 Demo Video:
